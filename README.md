@@ -1,5 +1,3 @@
-# DUAL_PORT_RAM
-🟦 Dual-Port RAM in System Verilog
 <div align="center"> <h2>🟩 Dual-Port RAM in SystemVerilog</h2> <em>A versatile memory module with independent simultaneous read/write ports and parameterized configuration.</em> </div> <hr style="border:none; border-top:2px solid #4CAF50; margin-bottom:1.2em;"/> <div align="center" style="font-size:1.1em;">
 🗂️ <b>Overview</b>
 This project implements a <u>dual-port RAM</u> module in SystemVerilog — allowing concurrent access through two independent ports. Ideal for applications needing simultaneous read/write or dual-read/write operations in high-performance digital systems.
